@@ -1,0 +1,26 @@
+{
+  "name": "stylus-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-marquez/stylus-boilerplate.git"
+  },
+  "author": "Albert Marquez github.com/a-marquez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a-marquez/stylus-boilerplate/issues"
+  },
+  "homepage": "https://github.com/a-marquez/stylus-boilerplate#readme",
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "normalize.css.styl": "^4.1.1",
+    "stylus": "^0.54.5",
+    "stylus-case": "github:a-marquez/stylus-case"
+  }
+}

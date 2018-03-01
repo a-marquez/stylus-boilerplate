@@ -2,9 +2,9 @@ Stylus Boilerplate
 ---
 
 ## Intro
--- simple and thorough organisation of files
--- uses normalize.css
--- uses CASE - github.com/a-marquez/stylus-case
+- simple and thorough organisation of files
+- uses normalize.css
+- uses CASE - github.com/a-marquez/stylus-case
 
 ## Usage
 **Setup**
