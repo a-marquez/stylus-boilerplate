@@ -5,6 +5,8 @@
   "main": "index.js",
   "bin": "./index.js",
   "scripts": {
+    "build": "mkdir -p build && stylus src/main.styl -o build --use stylus-case",
+    "build:watch": "npm run build -- -w",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

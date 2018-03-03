@@ -1,6 +1,5 @@
 TODO
 ---
-- make usable with npx
 - add samples for all commented items in main.styl and switch off .gitkeep files
-- add rationale section to readme
+- add rationale to readme for names and organisation
 - put some more thought into font usage/loading
